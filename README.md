@@ -1,0 +1,1 @@
+This project now supports authentication
